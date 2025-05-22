@@ -33,7 +33,7 @@
 ## 🏗 Архитектура проекта
 
 Полная документация по архитектуре доступна в файле:  
-📄 [System Architecture/C4_Architecture](C4_Architecture.md)
+📄 [System Architecture/C4_Architecture](System Architecture/C4_Architecture)
 
 ## 🔌 API документация
 
