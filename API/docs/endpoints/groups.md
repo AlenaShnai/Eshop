@@ -40,7 +40,8 @@
 
 **400 Not Found (Группа не найдена):**
 
-```{
+```json
+{
   "error": "not_found",
   "message": "The category group with ID 12345 does not exist."
 }
