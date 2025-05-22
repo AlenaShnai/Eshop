@@ -100,7 +100,7 @@ Git и GitHub предоставляют мощные инструменты д�
 ## 🏗 Архитектура проекта
 
 Полная документация по архитектуре доступна в файле:  
-📄 [System Architecture/C4_Architecture](System Architecture/C4_Architecture)
+📄 ([System Architecture/C4_Architecture](https://github.com/AlenaShnai/Eshop/tree/main/System%20Architecture))
 
 ## 🔌 API документация
 
