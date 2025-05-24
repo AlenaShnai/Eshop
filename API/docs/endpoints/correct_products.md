@@ -5,7 +5,7 @@
 | Администратор | Да     | `/products/{productId}` | PATCH | `product_name`, `start_price` | 200 OK<br>404 Not Found<br>400 Bad Request<br>401 Unauthorized<br>403 Forbidden |
 
 
-### 📤 Параметр запроса
+### 📤 Пример запроса
 ```http
 PATCH /api/products/55 HTTP/1.1
 Host: elena-Eshop.com
